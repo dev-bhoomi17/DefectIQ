@@ -93,7 +93,7 @@ Users can also import their own defect data using supported CSV and JSON formats
 
 ## Live Demo
 
-Coming soon.
+Explore DefectIQ: https://dev-bhoomi17.github.io/DefectIQ/
 
 ## Author
 
